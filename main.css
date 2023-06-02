@@ -11,43 +11,43 @@ font-family: 'Source Sans Pro', sans-serif; */
 
 @font-face {
   font-family: "Brown_sugar";
-  src: url(/fonts/BrownSugar/Brown\ Sugar\ .ttf);
+  src: url(fonts/BrownSugar/Brown\ Sugar\ .ttf);
 }
 
 @font-face {
   font-family: "Bogart_Italic";
-  src: url(/fonts/Bogart/Bogart-Italic-trial.ttf);
+  src: url(fonts/Bogart/Bogart-Italic-trial.ttf);
 }
 @font-face {
   font-family: "Bogart_Italic_trial";
-  src: url(/fonts/Bogart/Bogart-Medium-Italic-trial.ttf);
+  src: url(fonts/Bogart/Bogart-Medium-Italic-trial.ttf);
 }
 @font-face {
   font-family: "Bogart_semibold_italic";
-  src: url(/fonts/Bogart/Bogart-Semibold-Italic-trial.ttf);
+  src: url(fonts/Bogart/Bogart-Semibold-Italic-trial.ttf);
 }
 @font-face {
   font-family: "Bogart_semibold";
-  src: url(/fonts/Bogart/Bogart-Semibold-trial.ttf);
+  src: url(fonts/Bogart/Bogart-Semibold-trial.ttf);
 }
 
 @font-face {
   font-family: "Demo_bd";
-  src: url(/fonts/Demo_Fonts/Fontspring-DEMO-theseasons-bd.otf);
+  src: url(fonts/Demo_Fonts/Fontspring-DEMO-theseasons-bd.otf);
 }
 
 @font-face {
   font-family: "Demo_lt";
-  src: url(/fonts/Demo_Fonts/Fontspring-DEMO-theseasons-lt.otf);
+  src: url(fonts/Demo_Fonts/Fontspring-DEMO-theseasons-lt.otf);
 }
 
 @font-face {
   font-family: "Demo_reg";
-  src: url(/fonts/Demo_Fonts/Fontspring-DEMO-theseasons-reg.otf);
+  src: url(fonts/Demo_Fonts/Fontspring-DEMO-theseasons-reg.otf);
 }
 @font-face {
   font-family: "Arsenica";
-  src: url(/fonts/ARsenica/ArsenicaTrial-Regular.ttf);
+  src: url(fonts/ARsenica/ArsenicaTrial-Regular.ttf);
 }
 
 * {
