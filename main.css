@@ -11,43 +11,43 @@ font-family: 'Source Sans Pro', sans-serif; */
 
 @font-face {
   font-family: "Brown_sugar";
-  src: url(/static/css/fonts/BrownSugar/Brown\ Sugar\ .ttf);
+  src: url(/fonts/BrownSugar/Brown\ Sugar\ .ttf);
 }
 
 @font-face {
   font-family: "Bogart_Italic";
-  src: url(/static/css/fonts/Bogart/Bogart-Italic-trial.ttf);
+  src: url(/fonts/Bogart/Bogart-Italic-trial.ttf);
 }
 @font-face {
   font-family: "Bogart_Italic_trial";
-  src: url(/static/css/fonts/Bogart/Bogart-Medium-Italic-trial.ttf);
+  src: url(/fonts/Bogart/Bogart-Medium-Italic-trial.ttf);
 }
 @font-face {
   font-family: "Bogart_semibold_italic";
-  src: url(/static/css/fonts/Bogart/Bogart-Semibold-Italic-trial.ttf);
+  src: url(/fonts/Bogart/Bogart-Semibold-Italic-trial.ttf);
 }
 @font-face {
   font-family: "Bogart_semibold";
-  src: url(/static/css/fonts/Bogart/Bogart-Semibold-trial.ttf);
+  src: url(/fonts/Bogart/Bogart-Semibold-trial.ttf);
 }
 
 @font-face {
   font-family: "Demo_bd";
-  src: url(/static/css/fonts/Demo_Fonts/Fontspring-DEMO-theseasons-bd.otf);
+  src: url(/fonts/Demo_Fonts/Fontspring-DEMO-theseasons-bd.otf);
 }
 
 @font-face {
   font-family: "Demo_lt";
-  src: url(/static/css/fonts/Demo_Fonts/Fontspring-DEMO-theseasons-lt.otf);
+  src: url(/fonts/Demo_Fonts/Fontspring-DEMO-theseasons-lt.otf);
 }
 
 @font-face {
   font-family: "Demo_reg";
-  src: url(/static/css/fonts/Demo_Fonts/Fontspring-DEMO-theseasons-reg.otf);
+  src: url(/fonts/Demo_Fonts/Fontspring-DEMO-theseasons-reg.otf);
 }
 @font-face {
   font-family: "Arsenica";
-  src: url(/static/css/fonts/ARsenica/ArsenicaTrial-Regular.ttf);
+  src: url(/fonts/ARsenica/ArsenicaTrial-Regular.ttf);
 }
 
 * {
@@ -257,6 +257,9 @@ button:focus-visible {
     padding: 10px;
 
     font-size: 30px;
+  }
+  .intro {
+    padding-top: 05px;
   }
   .location {
     width: 50px;
@@ -1472,5 +1475,16 @@ footer {
   }
   .rightcontact {
     padding: 27px 40px 40px 0px;
+  }
+}
+
+@media screen and (max-width: 236px) {
+  footer {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 217px) {
+  footer {
+    width: 100%;
   }
 }
