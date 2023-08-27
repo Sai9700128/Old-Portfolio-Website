@@ -1,27 +1,26 @@
 # SAI KALYAN 🏋🏼
 
-<img align="left" alt="Java"  style="padding-right:10px;" src="https://github.com/Saikalyan11/Portfolio/blob/master/Cover%20page.png" />
-
-## **Conquest Tech**
+### **Conquest Tech**
 
 ## PORTFOLIO WEBSITE
-link:  https://saikalyan11.github.io/Portfolio/
+`Have a look of my website`:  https://saikalyan11.github.io/Portfolio/
 
-I developed a professional-looking **` Website`** to showcase my **skills** and collaborate with me.
-This **`website``** is used to contact me from anywhere in the world and collaborate. Moreover, This website contains most of my hard work on using different kinds of fonts and **Responsive Web Design**.
+- I developed a professional-looking **` Website`** to showcase my **skills** and collaborate with me.
+- This **`website``** is used to contact me from anywhere in the world and collaborate. Moreover, This website contains most of my hard work on using different kinds of fonts and **Responsive Web Design**.
+
+<img align="left" alt="Java"  style="padding-right:10px;" src="https://github.com/Saikalyan11/Portfolio/blob/master/Cover%20page.png" />
 
 ## **Getting Started**
 
-We all know how to design websites with **HTML**, **CSS**, and **Javascript**. And this website is also designed in the same way.
-
-Mostly, it is designed with **HTML** and **CSS**, so no prior software is needed.
+- We all know how to design websites with **HTML**, **CSS**, and **Javascript**. And this website is also designed in the same way.
+- Mostly, it is designed with **HTML** and **CSS**, so no prior software is needed.
 
 ## **Pre-requisites**
 
-You can use your **notepad** which is already in your 🖥️**System**.
-It’s better 😌 to use an **IDE,** this **IDE** gives some shortcuts while writing code.
-I prefer to use **VS Code** because it is used for all programming languages. But most of the coders use different **_IDE_** for different languages. VS Code gives me a separate list of features to complete my work 10 times faster than using Notepad.
-Anything does the same work, and it depends on your speed, usage, and planning.
+- You can use your **notepad** which is already in your 🖥️**System**.
+- It’s better 😌 to use an **IDE,** this **IDE** gives some shortcuts while writing code.
+- I prefer to use **VS Code** because it is used for all programming languages. But most of the coders use different **_IDE_** for different languages. VS Code gives me a separate list of features to complete my work 10 times faster than using Notepad.
+- Anything does the same work, and it depends on your speed, usage, and planning.
 
 
 ## **Installation**
